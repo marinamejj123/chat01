@@ -13,7 +13,7 @@ class Resume extends Component {
             <div style={{ textAlign: "center" }}>
               <img
                 src="images/dos.jpg"
-                alt="avatar"
+                alt="Empresa"
                 style={{ height: "250px" }}
               />
             </div>
